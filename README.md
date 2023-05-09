@@ -9,9 +9,9 @@ Hi, I'm a young Full Stack Web Developer, so more easly, I make websites. In my 
 
 <div align="center">
   
-### 📊 Stats
+<!-- ### 📊 Stats -->
   
-![Giusscos's GitHub stats](https://github-readme-stats.vercel.app/api?username=giusscos&show_icons=true&theme=gruvbox)
+<!-- ![Giusscos's GitHub stats](https://github-readme-stats.vercel.app/api?username=giusscos&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=giusscos&theme=gruvbox&border_radius=4.5) -->
   
