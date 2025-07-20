@@ -11,25 +11,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 🌱 Currently learning: Metal, ML, and GameDev skills.
 - 📫 Reach me at: [hello@giusscos.com](mailto:hello@giusscos.com)
 
+---
 
 ## 🗣️ Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giusscos&layout=compact&theme=radical)
-
----
-
-## ✨ Fun Facts
-
-- I love water and late-night coding sessions
-- Always ready to collaborate on exciting new ideas!
-- Favourite motto: "Stay hungry, stay foolish." - Steve Jobs.
-
----
-
-## 🔗 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/giuseppepio-cosenza)
-- [Twitter/X](https://twitter.com/giusscos)
-- [Reddit](https://reddit.com/user/giusscos)
 
 ---
 
