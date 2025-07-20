@@ -17,6 +17,18 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ![giusscos's GitHub stats](https://github-readme-stats.vercel.app/api?username=giusscos&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giusscos&layout=compact&theme=radical)
 
+- **Contributions Over Time:**  
+  ![Contributions](https://ghchart.rshah.org/giusscos)
+
+- **Top Contributors:**  
+  ![Top Contributors](https://contrib.rocks/image?repo=OWNER/REPO)
+
+- **Language Breakdown:**  
+  ![Languages](https://img.shields.io/github/languages/top/OWNER/REPO)
+
+- **Issue Status:**  
+  ![Issues](https://img.shields.io/github/issues-closed-raw/OWNER/REPO)
+
 ---
 
 ## ✨ Fun Facts
