@@ -12,11 +12,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 📫 Reach me at: [hello@giusscos.com](mailto:hello@giusscos.com)
 
 
-## 📊 GitHub Stats
-
-![giusscos's GitHub stats](https://github-readme-stats.vercel.app/api?username=giusscos&show_icons=true&theme=radical)
+## 🗣️ Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giusscos&layout=compact&theme=radical)
-![Contributions](https://ghchart.rshah.org/giusscos)
 
 ---
 
