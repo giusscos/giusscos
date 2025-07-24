@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 🗣️ Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giusscos&layout=compact&theme=radical)
 
-![Codacy Badge](https://app.codacy.com/project/badge/Grade/giusscos/trackCO2)
-![Coverage](https://codecov.io/gh/giusscos/trackCO2/branch/main/graph/badge.svg)
-
 ---
 
 ## Support Me
