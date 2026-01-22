@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 💻 Software enthusiast always eager to learn something new.
 - 🛠️ Working with Swift, JavaScript/TypeScript, and others.
 - 🌱 Currently learning: Metal, ML, and GameDev skills.
-- 📫 Reach me at: [hello@giusscos.com](mailto:hello@giusscos.com)
+- 📫 Reach me at: [hello@giusscos.com](mailto:giu.cosenza08@gmail.com)
 
 ---
 
